@@ -47,7 +47,7 @@ mypy-extensions==1.0.0
 namex==0.0.8
 narwhals==1.6.2
 numpy==1.26.4
-opencv-python==4.10.0.84
+
 opencv-python-headless==4.10.0.84
 opt-einsum==3.3.0
 optree==0.12.1
